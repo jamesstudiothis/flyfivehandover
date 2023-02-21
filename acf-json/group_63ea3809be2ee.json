@@ -1,0 +1,78 @@
+{
+    "key": "group_63ea3809be2ee",
+    "title": "FIVE Hotels & Resorts",
+    "fields": [
+        {
+            "key": "field_63ea3809c2b63",
+            "label": "Sub Header",
+            "name": "five_hotels_and_resorts_section_sub_header",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": 4,
+            "placeholder": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_63ea3809c2b6a",
+            "label": "Body",
+            "name": "five_hotels_and_resorts_section_body",
+            "type": "textarea",
+            "instructions": "Use [line_break] to add line breaks",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": 8,
+            "placeholder": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_63ea38ce6755e",
+            "label": "Button",
+            "name": "five_hotels_and_resorts_section_button",
+            "type": "link",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 9,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1676294391
+}

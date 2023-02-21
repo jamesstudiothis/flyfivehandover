@@ -1,0 +1,44 @@
+{
+    "key": "group_63e4fa748b7f5",
+    "title": "About Section",
+    "fields": [
+        {
+            "key": "field_63e4fa747db06",
+            "label": "About",
+            "name": "about",
+            "type": "textarea",
+            "instructions": "Use [line_break] to add line breaks",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": "",
+            "placeholder": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 3,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1675950790
+}
