@@ -42,6 +42,12 @@
 			
 		</div>
 		
+		<div class="container--04">
+			
+			<button data-link="image-slider" data-reveal="obj" data-delay="5" data-duration="2">Scroll</button>
+			
+		</div>
+		
 	</div>
 	
 </section>
